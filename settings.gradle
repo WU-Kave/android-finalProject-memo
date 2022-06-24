@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+//    repositories {
+////        google()
+////        mavenCentral()
+//        google()
+//        maven { url 'https://maven.aliyun.com/repository/public/' }
+////        maven {url 'https://jitpack.io'}
+//        mavenLocal()
+//        mavenCentral()
+//    }
+//}
+rootProject.name = "memo"
+include ':app'

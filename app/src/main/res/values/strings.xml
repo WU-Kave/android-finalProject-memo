@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">memo</string>
+    <!-- 我的一些字符串 -->
+    <string name="my_notes">My Notes</string>
+    <string name="search_here">搜索....</string>
+    <string name="clear">清除</string>
+    <string name="no_data">no_data</string>
+    <string name="add_note">添加笔记</string>
+    <string name="choose_color">选择颜色</string>
+    <string name="some_text">Lorem Ipsum is simply dummy text of
+        the printing and typesetting industry. Lorem Ipsum has been
+        the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled
+        it to make a type specimen book. It has survived not only five
+        centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged.
+    </string>
+    <string name="edited_on">Edited on: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
